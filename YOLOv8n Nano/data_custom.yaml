@@ -1,0 +1,7 @@
+train: C:\PratikYOLO\train
+
+val: C:\PratikYOLO\val
+
+nc: 5
+
+names: ["circle","square","triangle","hotspot_circle","bullseye"]

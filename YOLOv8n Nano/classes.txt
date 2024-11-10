@@ -1,0 +1,5 @@
+circle
+square
+triangle
+hotspot_circle
+bullseye
